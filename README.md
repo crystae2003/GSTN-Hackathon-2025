@@ -1,1 +1,1 @@
-[![Presentation Preview})](GSTN-Presentation.pdf)
+[Download the Presentation](GSTN-Presentation.pdf)
